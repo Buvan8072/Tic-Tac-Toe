@@ -17,16 +17,7 @@ A simple **Tic Tac Toe** game built with [Your Tech Stack — e.g., Python, Java
 - Clean and minimal UI (if applicable)
 - Restart option (if implemented)
 
-## 📸 Screenshots
-
-![Game Screenshot](screenshot.png)
-
 ## 🛠️ Built With
 
 - [Language or Framework] (e.g., Python, HTML/CSS/JS, React, etc.)
 
-## 📁 Installation
-
-Clone the repository:
-
-```bash
